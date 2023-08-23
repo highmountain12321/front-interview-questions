@@ -1,0 +1,498 @@
+Question 1: What is HTML and what are it's basic components?
+Question 2: What is the purpose of Doctype in HTML?
+Question 3: What is semantic HTML?
+Question 4: What are different types of list in HTML?
+Question 5: What is the difference between div element and span element?
+Question 6: What is the difference between <b> and <strong> tags in HTML?
+Question 7: What are the different types of input field in HTML?
+Question 8: What is the difference between a GET request and POST request?
+Question 9: How do you create a hyperlink in HTML?
+Question 10: What is the purpose of the alt attribute in HTML?
+Question 11: What are void elements in HTML?
+Question 12: Can we display web page inside a webpage or is nesting of webpage possible?
+Question 13: What is the difference between <link> tag and <a> tag?
+Question 14: What are some of the advantages of HTML5 over its previous versions?
+Question 15: What is the canvas element in HTML5?
+Question 16: What is an HTML form?
+Question 17: What is the difference between HTML form's "action" and "method" attributes?
+Question 18: What would happen if there is no text between the HTML tags?
+Question 19: What is the purpose of <head> tag?
+Question 20: What is the purpose of the <meta> tag in HTML?
+Question 21: What is the purpose of the <script> tag in HTML?
+Question 22: What is the purpose of the viewport meta tag?
+Question 23: What is the purpose of the <noscript> tag in HTML?
+Question 24: What is the purpose of the <fieldset> tag in HTML?
+Question 25: what is the difference between HTML tag and HTML element?
+Question 26: How do you change the color of bullets?
+Question 27: What will happen if we don't put <!Doctype HTML> tag?
+Question 28: What is HTML5 web storage?
+Question 29: What is the use of "target" attribute in HTML?
+Question 30: What is the use of "em" tag?
+Question 31: What is the purpose of <header> tag?
+Question 32: What is the purpose of <nav> tag?
+Question 33: What is the purpose of <main> tag?
+Question 34: What is the purpose of <article> tag?
+Question 35: What is the purpose of <section> tag?
+Question 36: What is the purpose of <aside> tag?
+Question 37: What is the purpose of <footer> tag?
+Question 38: What is the purpose of <figure> tag?
+Question 39: What is the purpose of <figcaption> tag?
+Question 40: What is the purpose of <blockquote> tag?
+Question 41: What is <datalist> tag?
+Question 42: What is the use of <option> tag?
+Question 43: How can you make an image clickable in html?
+Question 44: Details about all tags used in HTML table.
+Question 45: HTML table attributes.
+Question 46: What is the purpose of the "data-*" attribute in HTML?
+Question 47: What is the purpose of <legend> tag?
+Question 48: What are HTML entities?
+Question 49: What is the purpose of the <picture> element in HTML5, and how is it used to optimize images?
+Question 50: HTML ARIA attributes.
+Question 51: What is CSS?
+Question 52: What are the possible ways to apply CSS styles to a web page?
+Question 53: What are some new features in CSS3?
+Question 54: What are the css selectors?
+Question 55: What is universal selector in css?
+Question 56: Explain the difference between classes and IDs in CSS.
+Question 57: Explain box model in CSS.
+Question 58: What is the difference between margin and padding in CSS?
+Question 59: Explain the CSS display property and its values.
+Question 60: What is the CSS position property and its values?
+Question 61: What is the difference between absolute and relative positioning in CSS?
+Question 62: Explain the CSS float property and its values.
+Question 63: What is the CSS clear property?
+Question 64: What is the CSS z-index property?
+Question 65: What are CSS pseudo-classes? Give some examples.
+Question 66: What is CSS animation?
+Question 67: How do you define a CSS animation?
+Question 68: How do you trigger a CSS animation to start and stop?
+Question 69: How do you create a responsive CSS animation?
+Question 70: How do you optimize CSS animations for performance?
+Question 71: How do you debug CSS animations and troubleshoot common issues, such as animations not playing or playing too quickly?
+Question 72: What is transition in CSS?
+Question 73: Can you specify multiple CSS transitions for an element?
+Question 74: What are gradients in CSS?
+Question 75: What is the difference between linear and radial gradient in CSS?
+Question 76: What is flexbox?
+Question 77: What is the difference between flex-grow and flex-shrink properties in Flexbox?
+Question 78: What is the difference between flex-wrap: nowrap and overflow: hidden in CSS?
+Question 79: What is thegapproperty in Flexbox, and how is it used to add spacing between flex items?
+Question 80: How do you center an element using flexbox?
+Question 81: What is CSS grid?
+Question 82: How do you use the grid-template-columns and grid-template-rows properties to define the size and number of columns and rows in a grid?
+Question 83: How do you specify the number of columns in a grid using CSS?
+Question 84: How do you align items within a grid using CSS?
+Question 85: What is the difference between grid-row and grid-column in CSS Grid?
+Question 86: What is a CSS transition?
+Question 87: What is the purpose of thetransition-propertyproperty in CSS transitions?
+Question 88: What is the function of thetransition-timing-functionproperty in CSS transitions?
+Question 89: How do you delay the start of a CSS transition?
+Question 90: How do you apply a transition to multiple properties at once?
+Question 91: What are CSS 2D Transforms?
+Question 92: Can you use negative values with CSS 2D transforms? If so, what effect do they have?
+Question 93: What are the properties of CSS 2D transform?
+Question 94: Can you apply multiple transformations to the same element using CSS 2D transforms?
+Question 95: What is the difference between thetranslate()androtate()functions?
+Question 96: What are the properties of CSS 3D transform?
+Question 97: What is the difference between RGB and RGBA colors?
+Question 98: What is color contrast?
+Question 99: How does color contrast applies to accessibility in web design?
+Question 100: what is css filter?
+Question 101: What are some important considerations when using text effects?
+Question 102: What is a CSS sprite?
+Question 103: What is the :not() pseudo-class used for in CSS?
+Question 104: How do you target all even or odd elements using a pseudo-selector in CSS?
+Question 105: What is the :visited pseudo-class used for in CSS?
+Question 106: How do you target the first letter of a text element using a pseudo-selector in CSS?
+Question 107: What is the :active pseudo-class used for in CSS?
+Question 108: What is the :lang() pseudo-class used for in CSS?
+Question 109: What is the :checked pseudo-class used for in CSS?
+Question 110: What is the @media rule in CSS?
+Question 111: What is the difference between fluid and fixed layouts in CSS?
+Question 112: How do you make images responsive in CSS?
+Question 113: What is the difference between min-width and max-width in CSS media queries?
+Question 114: What is the difference between responsive and adaptive design in CSS?
+Question 115: How do you optimize responsive images for faster loading in CSS?
+Question 116: How does calc() work in css?
+Question 117: What is the overflow property in CSS used for?
+Question 118: What is the difference betweenvisibility:hiddenanddisplay:none?
+Question 119: Are quotes mandatory in URL’s?
+Question 120: Explain what are web-safe fonts and fallback fonts.
+Question 121: What is the purpose of CSS content property?
+Question 122: How can we create custom cursor in CSS?
+Question 123: What is the "line-height" property in CSS?
+Question 124: What is specificity in CSS?
+Question 125: Which property is used to control the scrolling of an image in the background?
+Question 126: Which CSS property is used to capitalize text or convert text to uppercase or lowercase letters?
+Question 127: What is word-wrap property in CSS3?
+Question 128: Describe ‘rule set’ in CSS?
+Question 129: How can you create a CSS-only dropdown menu?
+Question 130: What are the potential drawbacks of using CSS frameworks such as Bootstrap?
+Question 131: What is Tailwind CSS?
+Question 132: How do you customize TailwindCSS to match a specific design system or brand guidelines?
+Question 133: Can you explain the difference between utility classes and component classes in TailwindCSS?
+Question 134: How do you optimize the file size of TailwindCSS in a production environment?
+Question 135: What are some common performance issues with TailwindCSS, and how do you optimize performance in your projects?
+Question 136: What is CSS preprocessor?
+Question 137: What is the difference between a CSS preprocessor and a post-processor?
+Question 138: What is SASS?
+Question 139: what is the difference between sass and scss?
+Question 140: Can you describe a situation where you would choose not to use Sass?
+Question 141: What is SASS nesting?
+Question 142: What are variables in Sass?
+Question 143: What are mixins in Sass?
+Question 144: What is Sass inheritance?
+Question 145: How do you use 'if' statements in SCSS?
+Question 146: What are some common mistakes that developers make when writing CSS, and how do you avoid them?
+Question 147: How do you balance the need for visual aesthetics with the need for website or application functionality?
+Question 148: How do you ensure that your CSS is optimized for search engine optimization (SEO)?
+Question 149: How do you ensure that your CSS is scalable and maintainable for large projects?
+Question 150: How do you use CSS variables to create more flexible and dynamic designs, and what are some use cases where variables are particularly useful?
+Question 151: What is javascript?
+Question 152: What is the difference between null and undefined in JavaScript?
+Question 153: What is the difference between == and === in JavaScript?
+Question 154: What is the difference between let, const, and var in JavaScript?
+Question 155: How do you convert a string to a number in JavaScript?
+Question 156: What is the purpose of the array slice method?
+Question 157: What is the purpose of the array splice method?
+Question 158: What is the difference between slice and splice?
+Question 159: What are arrow function?
+Question 160: What are first class function?
+Question 161: What is a pure function?
+Question 162: What is the scope chain in JavaScript?
+Question 163: What is a higher order function?
+Question 164: What is hoisting?
+Question 165: What are modules in javascript?
+Question 166: What is a closure in JavaScript?
+Question 167: What is callback in JavaScript?
+Question 168: What is a callback hell in javascript?
+Question 169: What is memoization?
+Question 170: What is the purpose of the "use strict" statement in JavaScript?
+Question 171: What is a cookie in javascript?
+Question 172: What are the differences between cookie, local storage and session storage?
+Question 173: What is AJAX?
+Question 174: What is the difference between synchronous and asynchronous code in JavaScript?
+Question 175: What are promises in JavaScript?
+Question 176: Who created Javascript?
+Question 177: What is the difference between async/await and promises in JavaScript?
+Question 178: How do you handle errors in javascript?
+Question 179: What is NaN in javascript?
+Question 180: How do you find operating system details in javascript?
+Question 181: What is the Document Object Model (DOM)?
+Question 182: What is the difference between the DOM and HTML?
+Question 183: What is the difference between the DOMContentLoaded event and the load event?
+Question 184: What is the difference between innerHTML and innerText?
+Question 185: What is the role of the Window object in the DOM?
+Question 186: What is a DOM node in JavaScript?
+Question 187: How do you prevent default behavior of an event in the DOM using JavaScript?
+Question 188: What is event propagation?
+Question 189: What is call stack in javascript?
+Question 190: What is an event loop?
+Question 191: What is BOM?
+Question 192: What is the use ofsetTimeOut()in javascript?
+Question 193: What is the use ofsetInterval()in javascript?
+Question 194: What is the purpose of clearTimeout method and clearInterval?
+Question 195: How do you redirect new page in javascript?
+Question 196: What is a JavaScript object?
+Question 197: What is the difference between dot notation and bracket notation when accessing properties of an object?
+Question 198: What is an object literal in javascript?
+Question 199: How would you clone an object in JavaScript?
+Question 200: What is a JSON?
+Question 201: What is Class in JavaScript?
+Question 202: What is a constructor in javascript?
+Question 203: What is the difference between a static method and an instance method in a class?
+Question 204: What is "this" in javascript Classes?
+Question 205: What are the benefits of using classes in JavaScript?
+Question 206: Can you explain the concept of method overriding in a class in JavaScript?
+Question 207: What is composition in classes in JavaScript?
+Question 208: What is inheritance in classes in javascript?
+Question 209: What is theextendskeyword in JavaScript, and how is it used for inheritance?
+Question 210: what is the purpose ofsuper()in javascript classes?
+Question 211: What is a private class field in JavaScript?
+Question 212: Can you explain the concept of encapsulation in JavaScript classes?
+Question 213: What isgetkeyword in javascript classes?
+Question 214: What issetkeyword in javascript classes?
+Question 215: Can you explain the concept of instance variables in a class in JavaScript?
+Question 216: What is the difference between a class and a function in JavaScript?
+Question 217: What is abstract class in javascript?
+Question 218: How would you convert an object to a JSON string in JavaScript, and vice versa?
+Question 219: What is the difference between a class and an interface in JavaScript?
+Question 220: Can you explain the concept of polymorphism in classes in JavaScript?
+Question 221: What is prototype in javascript?
+Question 222: What is prototype chain?
+Question 223: How does prototypal inheritance work in JavaScript?
+Question 224: What is the difference between prototypal inheritance and classical inheritance?
+Question 225: What is the difference between an object's prototype and its constructor function?
+Question 226: How do you add properties and methods to an object's prototype in JavaScript?
+Question 227: What is the difference betweenObject.prototypeandObject.__proto__in JavaScript?
+Question 228: How do you check if an object inherits from a specific prototype in JavaScript?
+Question 229: How do you override a method in an object's prototype in JavaScript?
+Question 230: What is the difference between Object.create() and new Object() in JavaScript?
+Question 231: What is a regular expression(regex)?
+Question 232: What is the difference between a regular expression and a string?
+Question 233: What is the syntax for creating a regular expression pattern?
+Question 234: What is a character class in regular expressions?
+Question 235: What is the difference between the asterisk () and the plus sign (+) in regular expressions?
+Question 236: How do you use the question mark (?) in regular expressions?
+Question 237: What is the purpose of backslashes () in regular expressions?
+Question 238: How do you specify a range of characters in a character class?
+Question 239: What is the difference between a greedy and a non-greedy match in regular expressions?
+Question 240: How do you use the pipe (|) operator in regular expressions?
+Question 241: What is the purpose of the caret (^) and dollar sign ($) characters in regular expressions?
+Question 242: What are some common use cases for regular expressions?
+Question 243: How do you match a specific number of characters in a regular expression?
+Question 244: How do you match a specific character that has a special meaning in a regular expression?
+Question 245: How do you use lookarounds in regular expressions?
+Question 246: What is thewindow.locationobject in JavaScript?
+Question 247: What are the properties of thewindow.locationobject?
+Question 248: How do you redirect to another page using JavaScript'swindow.locationobject?
+Question 249: How do you reload the current page using JavaScript'swindow.locationobject?
+Question 250: How do you get the value of a query parameter from the URL using JavaScript'swindow.locationobject?
+Question 251: What is the Date object in JavaScript?
+Question 252: How do you format a date in JavaScript?
+Question 253: How do you compare two dates in JavaScript?
+Question 254: How do you get the current timestamp in JavaScript?
+Question 255: How do you add or subtract days to a date in JavaScript?
+Question 256: what is iterator in javascript?
+Question 257: What is decorator in javascript?
+Question 258: What is babel?
+Question 259: What is optional chaining?
+Question 260: What is throttling?
+Question 261: What is debouncing?
+Question 262: What is global execution context?
+Question 263: What is function execution context?
+Question 264: What does the variable environment in JavaScript's function execution context contain, and what is its purpose?
+Question 265: What is a scope chain in JavaScript's function execution context?
+Question 266: What is Minification?
+Question 267: How do I modify the url without reloading the page?
+Question 268: What are dynamic imports in javascript?
+Question 269: What paradigm is Javascript?
+Question 270: How do you empty an array?
+Question 271: What is a lambda function?
+Question 272: What is variable shadowing in javascript?
+Question 273: How do you assign default values to variables?
+Question 274: What is a rest operator in javascript?
+Question 275: What is a spread operator?
+Question 276: Why would you use something like the load event? Does this event have disadvantages? Do you know any alternatives, and why would you use those?
+Question 277: What's the difference between Native objects and Host objects?
+Question 278: What's a typical use case for anonymous functions?
+Question 279: What is negative Infinity?
+Question 280: What is the data type of variables in JavaScript?
+Question 281: What is the difference between a prototype and an instance?
+Question 282: What is a function expression?
+Question 283: What is the difference between a module and a library?
+Question 284: How are JavaScript and ECMA Script related?
+Question 285: What are the different ways to delete a variable in JavaScript?
+Question 286: What are the different types of errors in JavaScript?
+Question 287: What is the use of the blur function?
+Question 288: What is the difference between an alert box and a confirmation box?
+Question 289: What isprompt()in javascript?
+Question 290: When to Use Internal and External JavaScript Code?
+Question 291: What is npm?
+Question 292: What is the name of the file which npm uses to identify the project and its dependencies?
+Question 293: What is the difference between dependencies and devDependencies?
+Question 294: What is a non-blocking function?
+Question 295: What is a blocking function?
+Question 296: What is Function Composition?
+Question 297: What is heap?
+Question 298: What is typed array in javascript?
+Question 299: What is nodejs?
+Question 300: What is a PWA?
+Question 301: What is nullish coalescing operator (??)?
+Question 302: How do you get the status of a checkbox with javascript?
+Question 303: What is the purpose of double tilde operator?
+Question 304: What are the different ways to debug JavaScript code?
+Question 305: What are the different ways to optimize JavaScript code?
+Question 306: What is the difference between undeclared & undefined?
+Question 307: What would be the result of 2+5+”3″?
+Question 308: What is statically typed and dynamically typed language and is javascript a statically typed or a dynamically typed language?
+Question 309: What is function currying?
+Question 310: What does delete do in JavaScript?
+Question 311: What is control flow function?
+Question 312: How does control flow function in js play a role in asynchronous operation in javascript?
+Question 313: Can you access DOM in nodejs?
+Question 314: How can you share code between files?
+Question 315: What does theinstanceofoperator do?
+Question 316: What are the drawbacks of prototypal inheritance?
+Question 317: What are some common problems that you encounter when using regular expressions?
+Question 318: What are the limitations of using the "var" keyword in JavaScript?
+Question 319: What are the limitations of using the "this" keyword in JavaScript?
+Question 320: What are the drawbacks of using the "delete" operator in JavaScript?
+Question 321: What are the advantages of using closures in JavaScript?
+Question 322: How does the concept of prototypal inheritance benefit JavaScript developers?
+Question 323: How does using template literals in JavaScript improve string manipulation and concatenation compared to traditional methods?
+Question 324: What are the advantages of using the fetch API over traditional XMLHttpRequest for making HTTP requests in JavaScript?
+Question 325: Can you explain the benefits of using the "this" keyword and how it differs in different contexts in JavaScript?
+Question 326: What resources or techniques do you use to stay up to date with the latest developments in JavaScript?
+Question 327: How do you ensure the code you write is maintainable, readable, and follows best practices?
+Question 328: How do you handle working on a JavaScript project with a large codebase or multiple developers?
+Question 329: How does JavaScript handle memory management and garbage collection?
+Question 330: According to javascript array, what comes first the chicken or egg?
+Question 331: What is ReactJS?
+Question 332: What are the key features of ReactJS?
+Question 333: What is the difference between ReactJS and other JavaScript frameworks/libraries?
+Question 334: What is JSX in ReactJS?
+Question 335: Explain the concept of virtual DOM in ReactJS.
+Question 336: What are the components in ReactJS?
+Question 337: What is the significance of state in ReactJS?
+Question 338: What is the difference between props and state?
+Question 339: What is the purpose of the "render" method in ReactJS?
+Question 340: What are the lifecycle methods in ReactJS and how do they work?
+Question 341: What is a higher-order component (HOC) in ReactJS?
+Question 342: What is the purpose of the "key" prop in ReactJS?
+Question 343: Explain the concept of controlled and uncontrolled components in ReactJS.
+Question 344: What is the purpose of the "setState" method in ReactJS and how does it work?
+Question 345: What is the significance of the "React.Fragment" component?
+Question 346: How does React handle event handling?
+Question 347: What are the differences between class components and functional components in ReactJS?
+Question 348: How can you optimize the performance of React applications?
+Question 349: What is React Router and how does it work?
+Question 350: Explain the concept of React Hooks and their benefits.
+Question 351: Can web browsers read JSX directly?
+Question 352: “In React, everything is a component.” Explain.
+Question 353: What are Pure Components?
+Question 354: Why is it necessary to start component names with a capital letter?
+Question 355: When do we prefer to use a class component over a function component?
+Question 356: How do you handle forms in React?
+Question 357: Explain the Flux architectural pattern.
+Question 358: Explain the concept of context in React. How does it work?
+Question 359: What are portals in React? When would you use them?
+Question 360: Explain the concept of lazy loading in React.
+Question 361: What is useEffect hook?
+Question 362: What is the role of the useReducer hook in React? How does it differ from the useState hook?
+Question 363: Describe the purpose of the useRef hook.
+Question 364: What is the purpose of the useMemo hook? How does it help optimize performance in React?
+Question 365: When would you use the useCallback hook in React? How does it differ from the useMemo hook?
+Question 366: What happens when you call setState?
+Question 367: What ischildrenprop in React?
+Question 368: What are stateless components?
+Question 369: What are stateful components?
+Question 370: What is the impact of indexes as keys?
+Question 371: What is prop drilling in react?
+Question 372: How would you prevent a component from rendering in React?
+Question 373: What do these three dots (...) in React do?
+Question 374: Why React uses className over class attribute?
+Question 375: Why we should not update state directly?
+Question 376: What is StrictMode in React?
+Question 377: What's wrong with using Context in React?
+Question 378: Does React re-render all components and sub components every time setState is called?
+Question 379: Explain why and when would you useuseMemo()?
+Question 380: When shall we use useReducer hook in ReactJS?
+Question 381: How does React renderer work exactly when we call setState?
+Question 382: what are styled component?
+Question 383: What are the advantages of styled components?
+Question 384: What are the advantages of styled components?
+Question 385: Why props cannot be updated in ReactJS?
+Question 386: What is a dispatcher?
+Question 387: What are Default Props?
+Question 388: What are inline conditional expressions?
+Question 389: What are the differences between React and React Native?
+Question 390: Is React a library or a Framework and why?
+Question 391: What are nested component in react?
+Question 392: Can a nested child component access the state of its sibling component?
+Question 393: What are error boundaries in react?
+Question 394: What is React Dev Tool?
+Question 395: What is "React Node" in react?
+Question 396: Why do we need to React Router?
+Question 397: Explain the role of Reducer.
+Question 398: What is the use of React.cloneElement?
+Question 399: Can you explain React's "lifting state up" concept and why it is important?
+Question 400: What is a ref in React and what is its purpose?
+Question 401: How does using refs differ from traditional DOM manipulation?
+Question 402: What is the main difference between "string refs" and "callback refs" in React.
+Question 403: Explain the concept of "forwarding refs" in React.
+Question 404: How do refs affect the component lifecycle in React?
+Question 405: What are the benefits of using callback refs over string refs?
+Question 406: Can we use refs with functional components in React? If yes, how?
+Question 407: What are the limitations or caveats of using refs in React?
+Question 408: How do you clean up or release the resources associated with a ref in React?
+Question 409: How do you access the DOM node using refs in React?
+Question 410: What is binding in React and why is it important?
+Question 411: What happens if you don't bind a function in React? Explain the potential issues that can arise.
+Question 412: How can you bind a function in a React class component? Describe the different methods available.
+Question 413: What is the recommended approach for binding functions in React components?
+Question 414: Explain the difference between binding in class components and functional components in React.
+Question 415: What is the difference between Element and Component in React?
+Question 416: How to apply validation on props in React?
+Question 417: Why is a React component declarative?
+Question 418: What is ReactDOM package?
+Question 419: how is React different from Angular?
+Question 420: Explain the use of CSS modules in React.
+Question 421: Can you explain what custom hooks are in React and how they differ from regular hooks?
+Question 422: What are the benefits of using custom hooks in React? Can you provide an example of a scenario where a custom hook would be useful?
+Question 423: How do you create a custom hook in React?
+Question 424: Are there any limitations or considerations when using custom hooks in React? Are there any performance implications or potential pitfalls that developers should be aware of?
+Question 425: What is Formik, and why would you use it in a React application?
+Question 426: What are the advantages of using Formik over traditional form handling in React?
+Question 427: What is Axios, and what problem does it solve in JavaScript or React development?
+Question 428: What are the advantages of using Axios over the built-in fetch API in JavaScript?
+Question 429: What is Material-UI, and what is its purpose in React development?
+Question 430: What is render hijacking in react?
+Question 431: What are Keyed Fragments?
+Question 432: What is suspense component?
+Question 433: Is it possible to use react without JSX?
+Question 434: Why does strict mode render twice in React?
+Question 435: What is React Fiber?
+Question 436: How does React Fiber improve the overall performance of React applications?
+Question 437: What is Babel in React js?
+Question 438: What is a wrapper component in react?
+Question 439: Explain DOM diffing?
+Question 440: What are the dependencies in the dependency array of the useEffect hook? How do they affect the behavior of the hook?
+Question 441: What are some common use cases for the useEffect hook?
+Question 442: Can you explain the concept of multiple useEffect hooks in a single component? How do they interact with each other?
+Question 443: What are the potential pitfalls or common mistakes when using the useEffect hook? How can you avoid them?
+Question 444: What is server-side rendering (SSR) in React.js?
+Question 445: Why would you choose to use server-side rendering instead of client-side rendering in React.js?
+Question 446: How does server-side rendering differ from client-side rendering in React.js?
+Question 447: Explain the benefits and drawbacks of server-side rendering in React.js.
+Question 448: What are the performance implications of server-side rendering in React.js?
+Question 449: How can you implement server-side rendering with React.js without using frameworks like Next.js?
+Question 450: Describe the steps involved in setting up server-side rendering with React.js from scratch.
+Question 451: What libraries or tools can be used to perform server-side rendering with React.js?
+Question 452: How can you handle data fetching and asynchronous operations during server-side rendering in React.js?
+Question 453: What considerations should you keep in mind when implementing server-side rendering for a large-scale React.js application?
+Question 454: Can you explain the concept of code splitting and how it relates to server-side rendering in React.js?
+Question 455: How can you optimize server-side rendered React.js applications for search engine optimization (SEO)?
+Question 456: What are some common challenges or pitfalls associated with server-side rendering in React.js, and how can you address them?
+Question 457: How does server-side rendering impact the development and debugging process compared to client-side rendering?
+Question 458: Can you explain the concept of hydration in the context of server-side rendering in React.js?
+Question 459: What are the best practices for organizing and structuring a React application?
+Question 460: How do you handle authentication and authorization in React applications?
+Question 461: What are the pros and cons of using React in a project compared to other JavaScript frameworks?
+Question 462: Why do we need Nextjs?
+Question 463: What are some of the challenges you have faced working with React?
+Question 464: What is TypeScript, and how does it differ from JavaScript?
+Question 465: What are the benefits of using TypeScript?
+Question 466: How do you define variables with specific types in TypeScript?
+Question 467: What are the basic data types in TypeScript?
+Question 468: What is tuple datatype in TypeScript?
+Question 469: What is the purpose of type annotations in TypeScript, and how are they used?
+Question 470: How can you define custom types or interfaces in TypeScript?
+Question 471: Explain the concept of type inference in TypeScript and how it works.
+Question 472: What is the difference between interfaces and type aliases in TypeScript? When would you use one over the other?
+Question 473: How does TypeScript support class-based object-oriented programming?
+Question 474: What is the use of the tsconfig.json file?
+Question 475: Explain the concept of type assertion in TypeScript.
+Question 476: What is the "any" type in TypeScript, and when should it be used?
+Question 477: How can you enforce strict null checks in TypeScript?
+Question 478: What is the "readonly" modifier in TypeScript, and how does it affect properties and arrays?
+Question 479: Can TypeScript be used for the backend?
+Question 480: what is optional properties in an interface in TypeScript?
+Question 481: Explain generics in Typescript.
+Question 482: Explain the concept of type guards in TypeScript.
+Question 483: What is thekeyofoperator in TypeScript?
+Question 484: Explain the difference between "interface" and "class" in TypeScript.
+Question 485: what is enum in Typescript?
+Question 486: Can you erase the values of array elements in TypeScript?
+Question 487: What is Intersection types in Typescript?
+Question 488: What is Union types in Typescript?
+Question 489: Which TypeScript types are immutable?
+Question 490: What is namespace in Typescript?
+Question 491: What is modules in Typescript?
+Question 492: What is mixins in Typescript?
+Question 493: What is declaration merging in Typescript?
+Question 494: What are the Disadvantages of TypeScript?
+Question 495: What are decorators in TypeScript?
+Question 496: Does TypeScript Support All Object Oriented Principles?
+Question 497: Does TypeScript supports function overloading?
+Question 498: What are the best practices when using TypeScript?
